@@ -1,0 +1,5 @@
+VanCitterAPN反演算法迭代100次约100秒。
+OneStep反演算法耗时约7秒。
+PseudoInverse反演算法耗时约5秒。
+Tsvd反演算法耗时约5秒。
+'Dsvd'反演算法耗时约4秒。
